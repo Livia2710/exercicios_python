@@ -8,4 +8,3 @@ nomes = ["Carol", "Esther", "Isabela", "Lívia", "Pedro"]
 for i, nomes in enumerate(nomes,1):
     print(f"{i} = {nomes}")
     print(" ")
-
