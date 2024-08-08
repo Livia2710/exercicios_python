@@ -1,7 +1,8 @@
-
+# Inserir os valores
 print("Informe os valores para a conversão\n")
-valorDolar = float(input("Informe o valor em dolares: "))
 
+# Variavel
+valorDolar = float(input("Informe o valor em dolares: "))
 
 # Calculo
 conv = valorDolar*0.93
