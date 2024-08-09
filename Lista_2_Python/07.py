@@ -8,9 +8,6 @@ def dia_da_semana(dia):
         
         case "Segunda" | "Terça" | "Quarta" | "Quinta" | "Sexta":
             return "Dia útil"
-        
-        case "Domingo" | "Sabado":
-            return "Fim de semana"
         case _:
             return "Valor inválido"
 
